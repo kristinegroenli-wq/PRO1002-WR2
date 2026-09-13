@@ -1,7 +1,0 @@
-#Task 1 - File to list converter
-
-filename = input("Enter filename: ")
-
-#Testing to see how committ and changes works
-
-
