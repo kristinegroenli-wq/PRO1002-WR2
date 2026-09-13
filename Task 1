@@ -1,5 +1,6 @@
 #Task 1 - File to list converter
 
+
 filename = input("Enter filename: ")
 
 try:
@@ -7,7 +8,7 @@ try:
         lines = [line.strip() for line in file]
 
         print(lines)
-
+       
 except FileNotFoundError:
     print("Error: File not found.")
 
