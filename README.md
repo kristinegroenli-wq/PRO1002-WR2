@@ -1,6 +1,2 @@
 
-
-The readme task:
-
-write a short reflection (~100 words) on how practices like documentation, diagrams, automated tests, 
-version control, pair/mob programming, and peer reviews help create shared understanding and support shared code ownership in a development team.
+It’s important that everyone in a development team takes time to document their work so others can validate and make sure that not just one person understands what has been done and why. In my experience, documentation, peer reviews and shared ownership of development often get deprioritized because there is not enough time. But that often leads to errors, more maintenance and more time used to understand another person's code that had been written a long time ago. Pair/mob programming is a good way of sharing knowledge, making the team less vulnerable and getting a feeling of shared ownership. Making diagrams to get a visualization of the code structure can often make it easier for others to understand why things are set up the way they are.
