@@ -8,6 +8,7 @@ try:
     items = os.listdir(path)
 
     print(f"\nContent in '{path}':")
+    print("-" * 30)
 
 
     for item in items:
